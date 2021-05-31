@@ -4,4 +4,4 @@
 
 <img align= "right" src= "https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=hetuno&layout=compact&theme=material-palenight" >
 
-<img align= "right" src= "https://github-readme-stats.vercel.app/api/wakatime?username=willianrod">
+<img align= "right" src= "https://github-readme-stats.vercel.app/api/wakatime?username=hetuno">
